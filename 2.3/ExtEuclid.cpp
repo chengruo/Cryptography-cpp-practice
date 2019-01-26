@@ -15,6 +15,7 @@ int main(){
 	cin>>a>>b;
 	eu=ExtEulcid(a,b);
 	cout<<"d="<<eu.d<<" s="<<eu.s<<" t="<<eu.t<<endl;
+
 	return 0;
 }
 
